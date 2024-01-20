@@ -22,7 +22,7 @@ function App() {
       <div className="card">
         <DynamicText />
         <SubmitText />
-        <LabeledButton label="Label sem criatividade!" />
+        <LabeledButton label="Boring Label!" />
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more

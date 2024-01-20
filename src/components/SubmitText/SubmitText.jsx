@@ -21,7 +21,7 @@ export default function SubmitText() {
                 onChange={handleInputSubmitChange}
                 placeholder="Type here..."
             />
-            <button onClick={handleSubmit}>Enviar</button>
+            <button onClick={handleSubmit}>Send</button>
             <p style={{ color: 'black', fontWeight: 'bold' }}>{transformedSubmitText}</p>
         </div>
     )

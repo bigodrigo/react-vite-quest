@@ -6,7 +6,7 @@ export default function LabeledButton({label}) {
     }
   
     const handleClick = () => {
-        alert(`A label desse botão é ${label}!`)
+        alert(`The label from that Button was: ${label}!`)
     };
 
     return(
