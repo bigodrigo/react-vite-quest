@@ -1,6 +1,6 @@
 # React + Vite basic challenge
-
-This project is a milestone of a FullStack developer course, serving to reinforce foundational principles and then upload it to a GitHub repository.
+## (Last Update) - 20/01/2024
+### This project is a milestone of a FullStack developer course, serving to reinforce foundational principles and then upload it to a GitHub repository.
 
 ## Table of contents
 
